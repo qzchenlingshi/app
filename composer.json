@@ -1,0 +1,16 @@
+{
+    "name": "lingshi/app",
+    "description": "desc",
+    "autoload": {
+        "psr-4": {
+            "Lingshi\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qzchenlingshi",
+            "email": "qzchen@lingshi.com"
+        }
+    ],
+    "require": {}
+}
